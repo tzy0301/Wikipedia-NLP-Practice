@@ -49,5 +49,4 @@
 2. **安裝並執行 Notebook**
    pip install pyspark
    開啟 INF6032_240217316.ipynb
-
-選擇 PySpark kernel，逐步執行各 cell。
+   選擇 PySpark kernel，逐步執行各 cell。
