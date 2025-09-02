@@ -46,3 +46,14 @@ This project applies PySpark to perform Natural Language Processing (NLP) on a W
    ```bash
    git clone https://github.com/your-username/Wikipedia-NLP-Practice.git
    cd Wikipedia-NLP-Practice
+
+
+2. **Install and Run Notebook**
+
+```bash
+# Install PySpark
+pip install pyspark
+
+# Open the Notebook
+# (In Jupyter or VS Code, open INF6032_240217316.ipynb)
+# Select the PySpark kernel and execute cells step by step
