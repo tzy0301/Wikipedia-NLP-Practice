@@ -47,6 +47,11 @@
    git clone https://github.com/your-username/Wikipedia-NLP-Practice.git
    cd Wikipedia-NLP-Practice
 2. **安裝並執行 Notebook**
-   -pip install pyspark
-   -開啟 INF6032_240217316.ipynb
-   - 選擇 PySpark kernel，逐步執行各 cell。
+
+```bash
+# 安裝 PySpark
+pip install pyspark
+
+# 開啟 Notebook
+# (在 Jupyter 或 VS Code 中打開 INF6032_240217316.ipynb)
+# 選擇 PySpark kernel，逐步執行各 cell
