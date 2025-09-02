@@ -1,9 +1,3 @@
-
----
-
-## 📄 英文版 (`README_EN.md`)  
-
-```markdown
 # Wikipedia-NLP-Practice: Bigram Analysis with PySpark  
 
 ## Project Objective  
